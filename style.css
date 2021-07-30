@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+
+
+/*================================================
+				Common Css
+================================================*/
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-color:#ffffff;
+}
+
+img{
+	width:100%;
+	height:auto;
+}
+
+.container{
+	max-width:960px;
+	width:100%;
+	margin:0 auto;
+	background-color:#ddd;
+}
+
+
+
+
+
+
+
+/*================================================
+				Main Header Css
+================================================*/
+
+.main_header_wrapper{
+	overflow:hidden;
+}
+
+.main_header {
+    padding: 16px 10px 16px 10px;
+    overflow: hidden;
+}
+
+
+/*------------------------------------------
+		Three Dots Design Css
+------------------------------------------*/
+.three_dots{
+	overflow:hidden;
+}
+
+.div1 {
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background-color: red;
+    float: left;
+    margin-right: 7px;
+}
+
+.div2 {
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background-color: yellow;
+    float: left;
+    margin-right: 7px;
+}
+
+.div3 {
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    background-color: green;
+    float: left;
+}
+
+
+/*------------------------------------------
+		Three Dots Design Css
+------------------------------------------*/
+.five_dots {
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+.box1 {
+    width: 10%;
+    height: 30px;
+    background-color: darkgray;
+    border-radius: 3px;
+    margin-right: 1%;
+    float: left;
+}
+
+.box2 {
+    width: 5%;
+    height: 30px;
+    background-color: darkgray;
+    border-radius: 3px;
+    margin-right: 2%;
+	float:left;
+}
+
+.box3 {
+    width: 63%;
+    height: 25px;
+    background-color: darkgray;
+    border-radius: 3px;
+    margin-right: 2%;
+    float: left;
+    padding: 5px 4px 0px 4px;
+    color: darkslateblue;
+}
+
+.box4 {
+    width: 5%;
+    height: 30px;
+    background-color: darkgray;
+    border-radius: 3px;
+    margin-right: 1%;
+    float: left;
+}
+
+.box5 {
+    width: 10%;
+    height: 30px;
+    background-color: darkgray;
+	float:left;
+    border-radius: 3px;
+}
+
+
+
+/*------------------------------------------
+		Down Long Line Design Css
+------------------------------------------*/
+.long_row{
+	overflow:hidden;
+}
+
+.line {
+    width: 850px;
+    height: 1px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-top: 19px;
+}
+
+
+
+
+
+
+/*------------------------------------------
+		Website Logo Image Design Css
+------------------------------------------*/
+.header_img {
+    overflow: hidden;
+    padding: 10px 0px 0px 0px;
+    float: left;
+}
+
+.header_img img {
+    width: 50px;
+    height: 50px;
+	float:left;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+
+
+
+
+
+
+/*------------------------------------------
+		Website Logo Image Design Css
+------------------------------------------*/
+.main_menu {
+    overflow: hidden;
+    width: 415px;
+}
+
+.main_menu_ul {
+    float: left;
+    margin-left: 50px;
+    margin-top: 27px;
+}
+
+.main_menu_ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.main_menu_ul li a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: darkblue;
+}
+
+.main_menu_ul li a:hover {
+    color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
